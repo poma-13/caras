@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Roboto;
+    src: url("./assets/fonts/Roboto-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: Arapey;
+    src: url("./assets/fonts/arapey-regular.ttf") format("truetype");
+  }
+  
+  
+  
+.header-blanco {
+    padding: 10px;
+  }
+  
+.heder {
+    padding-right: 436px;
+  }

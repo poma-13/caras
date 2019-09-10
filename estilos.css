@@ -1,0 +1,389 @@
+@font-face {
+  font-family: Roboto;
+  src: url("./assets/fonts/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Arapey;
+  src: url("./assets/fonts/arapey-regular.ttf") format("truetype");
+}
+
+body {
+  font-family: "Roboto";
+}
+
+.img-iconos{
+  width: 15px;
+  height: 15px;
+}
+a{
+  text-decoration: none;
+}
+
+.portada-negro{
+  background-color: black;
+}
+
+.articulo{
+  padding: 25px 118px 10px 9px;
+
+}
+
+
+.firma-autor{
+  display: flex;
+  padding-top: 12px;
+}
+.firma{
+  padding-top: 10px;
+  padding-top: 38px;
+    padding-right: 68px;
+    width: 100%;
+}
+.señor-img{
+  width: 100%;
+}
+
+.ul-faceboock{
+  padding-left: 190px;
+}
+.caratula-sonrie{
+  width: 100%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.caras-img{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+  padding-top: 20px;s
+
+}
+.heder {
+  padding-right: 436px;
+}
+
+.header-blanco {
+  padding: 10px;
+}
+
+.nav-principal {
+  padding: 20px;
+  margin-right: -139px;
+  
+}
+
+
+
+.editorial {
+  font-size: 75px;
+  font-family: Roboto;
+  
+}
+
+
+.contenido-editorial {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+}
+
+.suscribete{
+  text-align: center;
+  font-size: 56px;
+  font-family: Arapey;
+  padding-bottom: 20px;
+  padding-top: 90px;
+}
+
+.img-suscribete{
+  display: flex;
+  justify-content: center;
+}
+.correo{
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 24px;
+  padding-top: 43px;
+}
+
+.email{
+  border-color: #87d6af;
+  background-color: #f4f4f4;
+  padding: 4px 56px 7px 33px;
+ 
+  font-size: 14px;
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px
+}
+
+
+.boton{
+  padding: 4px 92px 7px 69px;
+  
+  border-color: #87d6af;
+  background-color: #87d6af;
+  font-size: 14px;
+ 
+  border: 1px solid #87d6af;
+}
+ 
+
+
+.footer-negro{
+  background-color: black;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.cuadro{
+  width: 154px;
+  height: 92px;
+  background-color: gray;
+  margin: 10px;
+
+}
+.grupo{
+  padding-bottom: 30px;
+}
+.televisa{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.listado-footer{
+  
+  padding-right: 69px;
+}
+.editor{
+  font-size: 14px;
+  color: red;
+}
+.francisco{
+  font-size: 18px;
+}
+
+.señor{
+  text-align: center;
+}
+
+.contenido{
+  font-size: 65px;
+    text-align: center;
+    font-family: Arapey;
+    color: gray;
+}
+
+.modo-a a{
+  color:rgb(173, 171, 171);
+}
+
+.suscribete-dos{
+  font-size: 40px;
+  font-family: Roboto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: center;
+  padding-left: 31px;
+}
+
+.email-boton{
+  display: flex;
+  flex-direction: column;
+}
+
+.contenido-email{
+  padding: 0;
+}
+
+.ingresa{
+  margin-right: -40px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  text-align: center;
+  border-color: #87d6af;
+  border-style: solid;
+  
+}
+.boton-suscribete{
+  margin-right: -40px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+    border-color: #87d6af;
+    background-color: #87d6af;
+    border: none;
+}
+
+.imagen-suscribete{
+ padding-bottom: 20px;
+}
+  
+
+.rayita{
+  border-style: solid;
+  border-width: 2px;
+  margin: -16px 0px 35px 0px;
+  margin-right: 528px;
+  margin-left: 529px;
+  border-color: red;
+}
+.modo-a article{
+  border-bottom: 2px solid gray;
+  margin-left: 29px;
+  text-decoration: none;
+
+}
+ 
+.modo-a article:hover{
+  border-bottom: 2px solid red;
+  margin-left: 29px;
+  text-decoration: none;
+  color:red;
+}
+.articulo :hover{
+  color:red;
+}
+
+.nav-principal ul  li a:hover{
+  color: red;
+
+}
+.cara-portada{
+  max-width: 100%;
+}
+
+
+
+.img-aracely{
+  padding-top: 24px;}
+
+.ojo{
+  margin-top: 26px;
+    font-size: 23px;
+}
+.menu-mobile a{
+  color: black;
+  font-size: 30px;
+}
+.menu-mobile{
+  background-color: chocolate;
+}
+
+.hamburguesa{
+  width: 50px;
+  padding-top: 13px;
+     
+  }
+ .raya{
+   border-bottom: 7px solid white;
+   padding: 4px 9px 14px 68px;
+   list-style: none;
+ }
+ .menu-desplegable{
+     background-color: white;
+     height: 100vh;
+     width: 200px;
+     z-index: 9999;
+     position: absolute;
+     top: 0;
+     right: 0;
+  
+     display: none;
+ }
+
+
+ .hamburguesa:hover +.menu-desplegable, .menu-desplegable:hover{
+     display: block;
+ }
+@media (max-width: 400px) {
+  .editorial {
+    font-size: 46px;
+  }
+
+  .contenido{
+    font-size: 44px ;
+  }
+  .aracely{
+    width: 100%;
+    height: 100%;
+  }
+  .cuadro{
+    width: 96%;
+    height: 188px;
+    background-color: gray;
+    margin: 8px;
+    
+  }
+
+  .logo-footer-uno{
+    margin-left: 90px;
+    }
+    .logo-footer{
+      margin-left: -16px;
+    }
+
+  .listado-footer{
+    
+    padding-left: 86px;
+    margin-top: 10px;
+  }
+
+ }
+
+
+ @media (max-width: 767px){
+  
+  .contenido-desplegable{
+      text-align: center;
+      margin: 15px;
+  }
+ 
+  
+  .boton-x{
+      border: none;
+      color: red;
+      font-weight: bold;
+      position: relative;
+      right: 9px;
+      font-size: 25px;
+      background-color: white;
+      font-style: oblique;
+  }
+  
+}
+
+@media (max-width: 1024px) and (min-width: 768px){
+
+  .listado-footer{
+    padding-right: 300px;
+    padding-left: 300px;
+  }
+  .grilla{
+    text-align: center;
+  }
+
+  .televisa{
+    text-align: center;
+  }
+
+  .editorial{
+  text-align: center
+  }
+
+  .firma-autor{
+    padding-left: 129px;
+  }
+
+  .contenido{
+    padding-top: 48px;
+  }
+}
+
+.menu-mobile{
+  padding: 10px;
+  line-height: 33px;
+}
